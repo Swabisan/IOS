@@ -1,8 +1,3 @@
-# IOS
-IOS apps
-- Tip Calculator
-
-
 # CodePath Pre-work - Tip Calculator
 
 a tip calculator application for iOS.
