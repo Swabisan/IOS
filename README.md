@@ -25,8 +25,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] List anything else that you can get done to improve the app functionality!
-Options to switch between 18%, 20% and 25% tips.
+- [X] Options to switch between 18%, 20% and 25% tips.
 
 ## Notes
 
